@@ -1,0 +1,18 @@
+{
+  "Details": [
+    {
+      "id": "c78c",
+      "name": "sangetha",
+      "dateofjoin": "2025-03-21",
+      "requireofadmission": " kidney",
+      "attender": "amutha"
+    },
+    {
+      "id": "7a44",
+      "name": "gopalakrishnan",
+      "dateofjoin": "2025-03-21",
+      "requireofadmission": "lunges",
+      "attender": "gopal"
+    }
+  ]
+}
